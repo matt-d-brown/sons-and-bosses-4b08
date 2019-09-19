@@ -45,11 +45,11 @@ sections:
           amet nec urna.
         image: images/feature3.png
         title: Cool Feature of Your Services
-    section_id: features
+    section_id: services
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
-    title: Features
+    title: Services
     type: featuresblock
   - bg: white
     component: reviews_block.html
