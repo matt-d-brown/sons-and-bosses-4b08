@@ -6,5 +6,13 @@ menus:
     weight: 3
 layout: contact
 ---
+## Ready to schedule an appointment?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula.
+#### Use our online system to book a free consultation right now
+If you have any questions about our services, or prefer to schedule via phone or email.
+
+Please contact us by one of the following
+
+* __Phone:__ 615-236-6478​​
+* __Email:__ tal.jones@sonsandbosses.com​​ 
+* __Proudly located in__ Nashville, TN​​
