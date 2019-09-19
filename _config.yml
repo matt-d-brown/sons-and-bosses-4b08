@@ -1,34 +1,31 @@
-title: Stackbit Azimuth Theme
+title: Sons & Bosses Consulting
 baseurl: /
 permalink: '/:title/'
 palette: blue
 header:
-  title: Azimuth
-  logo_img: images/logo.png
   has_nav: true
+  logo_img: /images/artboard-3.png
   menu:
     actions:
       - label: Sign Up
         url: /signup
+  title: Sons&Bosses Corp.
 footer:
-  logo_img: images/logo_alt.png
-  tagline: SaaS theme by Stackbit
+  content: '&copy; Sons&amp;Bosses Corp. All rights reserved.'
   has_nav: true
-  nav_title: Company
   has_social: true
-  social_title: Community
   has_subscribe: true
-  subscribe_title: Subscribe
+  links: []
+  logo_img: /images/artboard-5.png
+  nav_title: Company
+  social_title: Community
   subscribe_content: Stay up to date with our latest developments.
-  content: '&copy; Stackbit. All rights reserved.'
-  links:
-    - text: Made with Stackbit
-      url: 'https://www.stackbit.com'
-      new_window: true
+  subscribe_title: Subscribe
+  tagline: ''
 sass:
   indentWidth: 4
-  style: nested
   precision: 10
+  style: nested
 plugins:
   - jekyll-menus
 exclude:
@@ -45,6 +42,3 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-collections:
-  posts:
-    permalink: '/posts/:title/'
